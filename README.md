@@ -22,7 +22,7 @@ Today focused on improving my knowledge in JavaScript and following more and mor
 
 - :office_worker: Currently working as a front-end developer at [@universoimpulso](https://github.com/universoimpulso) (Netlify CMS - JavaScript - React.JS - Edge.JS).
 - :blue_heart: Techs: Netlify CMS, React.js, Linux.
-- :books: Reading: (sci-fi) - Condão - Author: Giordano Mochel Netto :heart:
+- :books: Ikigai. Os Segredos dos Japoneses Para Uma Vida Longa e Feliz :heart:
 - :new: Studying technologies: React.JS and Edge.JS.
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
