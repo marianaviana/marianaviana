@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:immarianaviana@gmail.com)](mailto:immarianaviana@gmail.com)
 
 ```javascript
- <script>
+  <script>
     alert( 'Hello, world! 👋' );
   </script>
  ```
@@ -24,6 +24,7 @@ Today focused on improving my knowledge in JavaScript and following more and mor
 - :blue_heart: Techs: Netlify CMS, React.js, Linux.
 - :books: Reading: Ikigai. Os Segredos dos Japoneses Para Uma Vida Longa e Feliz :heart:
 - :new: Studying technologies: React.JS and Edge.JS.
+- :eyeglasses: Courses in progress: [React Avançado: Crie aplicações com NextJS, GraphQL e mais ](https://www.udemy.com/share/103gMmA0cadFlVQXg=/)
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianaviana&show_icons=true&count_private=true&theme=radical&hide=issues" />
