@@ -22,7 +22,7 @@ Today focused on improving my knowledge in JavaScript and following more and mor
 
 - :office_worker: Currently working as a front-end developer at [@universoimpulso](https://github.com/universoimpulso) (Netlify CMS - JavaScript - React.JS - Edge.JS).
 - :blue_heart: Techs: Netlify CMS, React.js, Linux.
-- :books: Reading: Ikigai. Os Segredos dos Japoneses Para Uma Vida Longa e Feliz :heart:
+- :books: Reading: Cinco Semanas em um Balão - Júlio Verne :balloon::heart:
 - :new: Studying technologies: React.JS and Edge.JS.
 - :eyeglasses: Courses in progress: [React Avançado: Crie aplicações com NextJS, GraphQL e mais ](https://www.udemy.com/share/103gMmA0cadFlVQXg=/)
 <p align="justify">
