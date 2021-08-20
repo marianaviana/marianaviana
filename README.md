@@ -22,9 +22,11 @@ Today focused on improving my knowledge in JavaScript and following more and mor
 
 - :office_worker: Currently working as a front-end developer at [@universoimpulso](https://github.com/universoimpulso) (Netlify CMS - JavaScript - React.JS - Edge.JS).
 - :blue_heart: Techs: Netlify CMS, React.js, Linux.
-- :books: Reading: Cinco Semanas em um Balão - Júlio Verne :balloon::heart:
-- :new: Studying technologies: React.JS and Edge.JS.
-- :eyeglasses: Courses in progress: [React Avançado: Crie aplicações com NextJS, GraphQL e mais ](https://www.udemy.com/share/103gMmA0cadFlVQXg=/)
+- :books: Reading: 
+  - A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção - Reed Hastings & Erin Meyer :film_projector:
+  - Foco: O poder da única coisa -  Vinícius Almeida :dart:
+- :new: Studying skills: Oratory
+- :eyeglasses: Courses in progress: [Comunicação e Oratória - Escola Conquer :mega:](https://escolaconquer.com.br/)
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianaviana&show_icons=true&count_private=true&theme=radical&hide=issues" />
