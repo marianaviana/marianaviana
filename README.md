@@ -21,12 +21,12 @@ Today focused on improving my knowledge in JavaScript and following more and mor
 - :woman_office_worker: Currently working as a front-end developer at [@universoimpulso](https://github.com/universoimpulso) 
   - :blue_heart: Techs: Netlify CMS - JavaScript - React.JS - Edge.JS - Linux.
 - :books: Reading: 
-  - A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção - Reed Hastings & Erin Meyer :film_projector:
-  - Foco: O poder da única coisa -  Vinícius Almeida :dart:
+  - No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings & Erin Meyer :film_projector:
+  - Focus: the power of one thing - Vinícius Almeida :dart:
 - :new: Studying skills:
   - Oratory
 - :woman_student: Courses in progress:
-  - [Comunicação e Oratória - Escola Conquer :speaking_head:](https://escolaconquer.com.br/)
+  - [Communication and Oratory - Escola Conquer :speaking_head:](https://escolaconquer.com.br/)
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianaviana&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
