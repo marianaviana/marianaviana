@@ -21,12 +21,11 @@ Today focused on improving my knowledge in JavaScript and following more and mor
 - :woman_office_worker: Currently working as a front-end developer at [@universoimpulso](https://github.com/universoimpulso) 
   - :blue_heart: Techs: Netlify CMS - JavaScript - React.JS - Edge.JS - Linux.
 - :books: Reading: 
-  - No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings & Erin Meyer :film_projector:
   - Focus: the power of one thing - Vinícius Almeida :dart:
 - :new: Studying skills:
   - Oratory
 - :woman_student: Courses in progress:
-  - [Communication and Oratory - Escola Conquer :speaking_head:](https://escolaconquer.com.br/)
+  - [Agile Self-Management](https://aprendeai.com/curso/metodos-ageis-curso-kanban-expert-autogestao-na-pratica/)
 <p align="justify">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianaviana&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
@@ -35,4 +34,4 @@ Today focused on improving my knowledge in JavaScript and following more and mor
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaviana&layout=compact&theme=tokyonight" />
 </a>
 </p>
-<!--> :octocat: 
+<!--> 
