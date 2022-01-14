@@ -18,12 +18,12 @@ Today focused on improving my knowledge in JavaScript and following more and mor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  
 
-- :woman_office_worker: Currently working as a front-end developer at [@universoimpulso](https://github.com/universoimpulso) 
+- :woman_office_worker: Currently working as a front-end developer
   - :blue_heart: Techs: Netlify CMS - JavaScript - React.JS - Edge.JS - Linux.
 - :books: Reading: 
   - Focus: the power of one thing - Vinícius Almeida :dart:
 - :new: Studying skills:
-  - Oratory
+  - Agile Self-Management
 - :woman_student: Courses in progress:
   - [Agile Self-Management](https://aprendeai.com/curso/metodos-ageis-curso-kanban-expert-autogestao-na-pratica/)
 <p align="justify">
