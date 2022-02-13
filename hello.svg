@@ -1,7 +1,7 @@
-<svg fill="none" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="200">
+<svg fill="none" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="800px" height="200px">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
+			<style>			
 				@keyframes gradientBackground {
 					0% {
 						background-position: 0% 50%;
@@ -13,7 +13,7 @@
 						background-position: 0% 50%;
 					}
 				}
-
+			
 				.container {
 					font-family:
 						system-ui,
@@ -39,7 +39,7 @@
 					color: white;
 					text-align: center;
 				}
-
+        
         .wrapper {
           height: 200px;
           /*This part is important for centering*/
@@ -67,7 +67,7 @@
             width: 0
           }
         }
-
+            
         @keyframes blink {
           50% {
             border-color: transparent
@@ -78,7 +78,7 @@
         <div class="wrapper">
             <div class="typing-demo">
               Hello, world! 👋. I'm <b>Mariana Viana</b>.
-            </div>
+            </div>          
         </div>
 			</div>
 		</div>
