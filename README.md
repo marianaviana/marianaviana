@@ -8,8 +8,24 @@
 [![Mailer Badge](https://img.shields.io/badge/-contato@mariviana.com.br-6633cc?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contato@mariviana.com.br)](mailto:contato@mariviana.com.br)
 
 
-Today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
+  Today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
+  
+  
+<div align="justify">
+  
+:books: Reading: 
+  Focus: the power of one thing - Vinícius Almeida
+  
+:new: Studying skills:
+  Agile Self-Management 
+  
+:woman_student: Courses in progress: 
+  [Agile Self-Management](https://aprendeai.com/curso/metodos-ageis-curso-kanban-expert-autogestao-na-pratica/)
+  
+</div>
 
+________________________________________________________________
+  
 **Languages and Tools:**  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,13 +42,6 @@ Today focused on improving my knowledge in JavaScript and following more and mor
 &nbsp;
 ![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
 
-
-:books: Reading: 
-Focus: the power of one thing - Vinícius Almeida :dart:
-:new: Studying skills:
-Agile Self-Management
-:woman_student: Courses in progress:
-[Agile Self-Management](https://aprendeai.com/curso/metodos-ageis-curso-kanban-expert-autogestao-na-pratica/)
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
