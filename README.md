@@ -3,11 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mariana%20Viana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianaviana/)](https://www.linkedin.com/in/marianaviana/)
 [![Mailer Badge](https://img.shields.io/badge/-contato@mariviana.com.br-6633cc?style=flat-square&logo=Minutemailer&logoColor=white&link=mailto:contato@mariviana.com.br)](mailto:contato@mariviana.com.br)
 
-```javascript
-  <script>
-    alert( 'Hello, world! 👋' );
-  </script>
- ```
+<p align="center">
+<img src="hello.svg" />
+</p>
+
 
 Today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
 
