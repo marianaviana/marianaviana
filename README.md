@@ -49,7 +49,7 @@ ________________________________________________________________
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marianaviana&show_icons=true&count_private=true&theme=tokyonight&hide=issues&title_color=3caceb&text_color=FFFFFF&icon_color=3caceb" />
-</a>
+  </a>
 </p>
 
 </div>
