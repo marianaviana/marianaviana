@@ -29,9 +29,6 @@ ________________________________________________________________
   
 **Languages and Tools:**  
   
-  <img align="center" alt="React" src="" /> <img align="center" alt="Styled Components" src="" />
-<br />
-<br />
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-151515?style=flat-square&labelColor=000000&logo=visual-studio-code&logoColor=3caceb)
 &nbsp;
@@ -45,6 +42,7 @@ ________________________________________________________________
 &nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-151515?style=flat-square&labelColor=000000&logo=styled-components&logoColor=3caceb)
 
+<br />
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
