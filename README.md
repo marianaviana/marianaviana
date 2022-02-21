@@ -11,23 +11,8 @@
 
   Today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
   
-  
-<div align="justify">
-  
-:books: Reading: 
-  Focus: the power of one thing - Vinícius Almeida
-  
-:new: Studying skills:
-  Agile Self-Management 
-  
-:woman_student: Courses in progress: 
-  [Agile Self-Management](https://aprendeai.com/curso/metodos-ageis-curso-kanban-expert-autogestao-na-pratica/)
-  
-</div>
 
-________________________________________________________________
-  
-**Languages and Tools:**  
+### Languages and Tools:
   
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-151515?style=flat-square&labelColor=000000&logo=visual-studio-code&logoColor=3caceb)
