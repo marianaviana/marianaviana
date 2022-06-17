@@ -1,7 +1,7 @@
 <img src="/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
-# Hey, i'm Mariana Viana!  👋😃
+# Hey, i'm Mariana Viana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > 😃
 
 **I'm a front-end developer at [KRYPTUS EED S.A.](https://www.linkedin.com/company/kryptus/)**
 
