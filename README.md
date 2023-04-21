@@ -5,7 +5,7 @@
 
 **I'm a front-end developer at [KRYPTUS EED S.A.](https://www.linkedin.com/company/kryptus/)**
 
-- Skills: HTML, CSS, Sass, JavaScript, React.js, Next.js, Styled Components, Typescript, UI/UX and more
+- Skills: HTML, CSS, Sass, JavaScript, React.js, TypeScript, Styled Components, Typescript, UI/UX and more
 - Today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
 - Tools: VSCode, Figma, Github and Git.
 </br>
