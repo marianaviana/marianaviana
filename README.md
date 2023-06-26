@@ -45,3 +45,6 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianaviana&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marianaviana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282a36&stroke=6272a4&ring=de6caf&fire=e34c26&currStreakNum=fff&sideNums=de6caf&currStreakLabel=e8a865&sideLabels=e8a865&dates=e8a865) |
 | :-: | :-: |
+
+| ![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=6)
+| :-: |
