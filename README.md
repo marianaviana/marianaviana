@@ -40,8 +40,8 @@
 </div>
 <!--> 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianaviana&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianaviana&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianaviana&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianaviana&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianaviana&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianaviana&theme=dracula) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianaviana&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marianaviana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianaviana&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marianaviana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282a36&stroke=6272a4&ring=de6caf&fire=e34c26&currStreakNum=fff&sideNums=de6caf&currStreakLabel=e8a865&sideLabels=e8a865&dates=e8a865) |
 | :-: | :-: |
