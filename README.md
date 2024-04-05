@@ -3,7 +3,7 @@
 
 # Hey, i'm Mariana Viana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > 😃
 
-**I'm a front-end developer at [KRYPTUS EED S.A.](https://www.linkedin.com/company/kryptus/)**
+**I'm a front-end developer and 3D maker**
 
 - Skills: HTML, CSS, Sass, JavaScript, React.js, TypeScript, Styled Components, Typescript, UI/UX and more
 - Today focused on improving my knowledge in JavaScript and following more and more in love with this infinite love.
