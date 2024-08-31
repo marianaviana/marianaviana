@@ -1,5 +1,5 @@
 # Hey, I'm Mariana Viana! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" > 😃
-<img src="/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/marianaviana/marianaviana/328e6974b9e95da3aed410e1341ea9c17a043995/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 **I'm a front-end developer and 3D maker**
 
