@@ -15,36 +15,10 @@
 
 </p>  
 
-
-
-<!--
 <div align="center">
-
-<br />
-
-<p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=marianaviana&show_icons=true&count_private=true&theme=tokyonight&hide=issues&title_color=3caceb&text_color=FFFFFF&icon_color=3caceb" />
-    <img align="center" src="mari.gif" height="170px" width="100%"/>
-  </a>
-  </br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaviana&layout=compact&show_icons=true&count_private=true&theme=tokyonight&hide=issues&title_color=3caceb&text_color=FFFFFF&icon_color=3caceb)" />
-    <img align="center" src="mari.gif" height="170px width="100%"/>
-  </a>
-  
-</p>
-
-</div>
-<!--> 
-
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marianaviana&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianaviana&hide=Html&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianaviana&theme=dracula) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianaviana&theme=dracula) | ![](https://github-readme-streak-stats.herokuapp.com/?user=marianaviana&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=282a36&stroke=6272a4&ring=de6caf&fire=e34c26&currStreakNum=fff&sideNums=de6caf&currStreakLabel=e8a865&sideLabels=e8a865&dates=e8a865) |
-| :-: | :-: |
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&row=1&column=6" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marianaviana&amp;theme=transparent" alt="">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marianaviana&amp;hide=Html&amp;theme=transparent" alt=""> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marianaviana&amp;theme=transparent" alt=""> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marianaviana&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;background=transparent&amp;stroke=6272a4&amp;ring=006aff&amp;fire=e34c26&amp;currStreakNum=fff&amp;sideNums=006aff&amp;currStreakLabel=417e87&amp;sideLabels=417e87&amp;dates=417e87" alt="">
+  <img src="https://github-profile-trophy.vercel.app/?username=marianaviana&margin-w=15&theme=nord&no-bg=true&row=1&column=5&no-frame=true" />
 </div>
