@@ -8,11 +8,8 @@
 - Tools: VSCode, Figma, Github and Git.
 </br>
 <p align="left">
-<a href="mailto:contato@mariviana.com.br" alt="mail">
-  <img src="https://img.shields.io/badge/-contato@mariviana.com.br-151515?style=flat-square&labelColor=000&logo=Minutemailer&logoColor=3caceb&link=contato@mariviana.com.br" /></a>
-  <a href="https://www.linkedin.com/in/marianaviana" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-151515?style=flat-square&labelColor=000&&logo=Linkedin&logoColor=3caceb&link=https://www.linkedin.com/in/marianaviana" /></a>
-
+  <a href="mailto:contato@mariviana.com.br" alt="mail"><img src="https://img.shields.io/badge/-contato@mariviana.dev-151515?style=flat-square&labelColor=000&logo=Minutemailer&logoColor=3caceb&link=contato@mariviana.dev" /></a>
+  <a href="https://www.linkedin.com/in/marianaviana" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marianaviana" /></a>
 </p>  
 
 <div align="center">
